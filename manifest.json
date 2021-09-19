@@ -1,0 +1,21 @@
+{
+    "short_name": "APKPure",
+    "name": "APKPure.com",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "https://1.bp.blogspot.com/-7RsVyri_MEY/YUXmjyyeYoI/AAAAAAAAAFk/CkUk5_tbb5I9m5TsqQgeXFODSULrcqhLQCLcBGAsYHQ/s0/android-icon-48x48.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      },
+      {
+        "src": "https://1.bp.blogspot.com/-xNvVUxPaoGw/YUXmhpej9TI/AAAAAAAAAFc/iqxPUDxihA4MaXdsKVZEbCl0qDwURml6gCLcBGAsYHQ/s0/android-icon-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ],
+    "background_color": "#ffffff",
+    "theme_color": "#23a86b",
+    "start_url": "https://exparimentapk.blogspot.com",
+    "display": "standalone"
+  }
