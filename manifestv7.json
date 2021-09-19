@@ -5,7 +5,6 @@
   "start_url": "https://www.uptodown.com/android",
   "theme_color": "#2D709B",
   "background_color": "#2D709B",
-  "gcm_sender_id": "YOUR_GCM_ID",
   "icons": [
     {
       "src": "https://1.bp.blogspot.com/-Ai_CKPColz0/YUbmYQTweJI/AAAAAAAAHYw/PhIjY1BDKJU0A0fJlGI8B0Z_mBS3NChngCLcBGAsYHQ/s192/android-icon-192x192.png",
