@@ -1,6 +1,6 @@
 {
-  "name": "Uptodown",
-  "short_name": "Uptodown",
+  "name": "ApkBongo",
+  "short_name": "ApkBongo",
   "display": "standalone",
   "start_url": "https://www.uptodown.com/android",
   "theme_color": "#2D709B",
