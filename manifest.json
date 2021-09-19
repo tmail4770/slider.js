@@ -1,16 +1,14 @@
 {
-    "short_name": "APKPure",
-    "name": "APKPure.com",
-    "orientation": "portrait",
-    "icons": [
-      {
-        "src": "https://1.bp.blogspot.com/-xNvVUxPaoGw/YUXmhpej9TI/AAAAAAAAAFc/iqxPUDxihA4MaXdsKVZEbCl0qDwURml6gCLcBGAsYHQ/s0/android-icon-192x192.png",
-        "type": "image/png",
-        "sizes": "192x192"
-      }
-    ],
-    "background_color": "#ffffff",
-    "theme_color": "#5b95f5",
-    "start_url": "https://exparimentapk.blogspot.com",
-    "display": "standalone"
-  }
+  "name": "ApkBongo",
+  "short_name": "ApkBongo",
+  "lang": "en-US",
+  "start_url": "https://www.apkbongo.com",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-Ai_CKPColz0/YUbmYQTweJI/AAAAAAAAHYw/PhIjY1BDKJU0A0fJlGI8B0Z_mBS3NChngCLcBGAsYHQ/s192/android-icon-192x192.png",
+      "sizes": "192×192",
+      "type": "image/png"
+    }
+  ]
+}
