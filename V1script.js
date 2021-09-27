@@ -8,11 +8,11 @@ function load_disqus( disqus_shortname ) {
   if( t && y ) {
     e.type = 'text/javascript';
     e.async = true;
-    e.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    e.src = '//' + experiment-4 + '.disqus.com/embed.js';
     h.appendChild(e);
     d.type = 'text/javascript';
     d.async = !0;
-    d.src = '//' + disqus_shortname + '.disqus.com/blogger_item.js';
+    d.src = '//' + experiment-4 + '.disqus.com/blogger_item.js';
     h.appendChild(d);
     y.remove();
   }
