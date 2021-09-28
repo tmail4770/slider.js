@@ -14,7 +14,7 @@
 			document.removeEventListener('mousemove', dyload);
 			document.removeEventListener('mousedown', dyload);
 			document.removeEventListener('touchstart', dyload);
-			jsload('//s7.addthis.com/js/300/addthis_widget.js#pubid=apupuu');
+			jsload('//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-61287424b445f828');
 						 var bLazy = new Blazy({ 
 				offset: 10,
 				selector: '.lazy_screen',
