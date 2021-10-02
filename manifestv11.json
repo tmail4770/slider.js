@@ -6,7 +6,7 @@
   "theme_color": "#5b95f5",
   "icons": [
     {
-      "src": "https://1.bp.blogspot.com/-Ai_CKPColz0/YUbmYQTweJI/AAAAAAAAHYw/PhIjY1BDKJU0A0fJlGI8B0Z_mBS3NChngCLcBGAsYHQ/s192/android-icon-192x192.png",
+      "src": "/android-icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     }
